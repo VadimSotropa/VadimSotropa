@@ -1,6 +1,6 @@
 Hi there 👋
 - 👂 My name is Vadim Sotropa
-- 🔭 I’m currently working on my MVP Paris tourist mobile app
+- 🔭 I’m currently looking for new job opportunities
 - 🌱 I’m Full stack dev:
 - Languages: HTML, CSS, JavaScript, Node Js
 - Frameworks & Libraries: React, Express.Js, React Native, Next.Js, Bootstrap,
